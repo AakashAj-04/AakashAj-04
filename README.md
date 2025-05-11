@@ -56,7 +56,7 @@
 ### 🌍 Let's Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/aakash04/" target="_blank">
+  <a href="[[https://www.linkedin.com/in/aakash04/](https://www.linkedin.com/in/aakash-amirthalingam-32a5b22a6)](https://www.linkedin.com/in/aakash-amirthalingam-32a5b22a6)" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:aakash04.amirthalingam@gmail.com">
